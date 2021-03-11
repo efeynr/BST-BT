@@ -1,0 +1,3 @@
+C:/Users/efeye/CLionProjects/BST_BT/cmake-build-debug/CMakeFiles/BST_BT.dir
+C:/Users/efeye/CLionProjects/BST_BT/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/efeye/CLionProjects/BST_BT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
